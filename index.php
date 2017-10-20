@@ -16,6 +16,7 @@
     <link href="https://fonts.googleapis.com/css?family=Montserrat:500|Source+Code+Pro:300,400,600,700" rel="stylesheet">
  <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <!-- jQuery library -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -35,7 +36,11 @@
 
  <h2>DATA COMM. ASSIGNMENT. </h2> <br> 
  <h4>(DUE: 19TH OCTOBER 2017)  </h4>
+ <h5>GIMPA SOT</h5>
   <h3 class="student-id">STUDENT ID: 218012411 </h3>
+  <br>
+<h3 > Code Repository</h3>
+  <h4><a href="https://github.com/Africanpride/secons-converter/tree/master" target="_blank">  https://github.com/Africanpride/secons-converter/tree/master</a></h4>
 
  <h2>Units of Period and Frequency. </h2>
   <p>This converts Units of a period you enter into the form to: Seconds (s), Milliseconds (ms), Microseconds (Ils), Nanoseconds (ns) and Picoseconds (ps) </p>
@@ -83,15 +88,10 @@
  
  </div>  
 
- <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-108372931-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+<div class="footer"> Copyright &copy; 2017. <a href="https://github.com/Africanpride/secons-converter/blob/master/LICENSE" target="_blank">&nbsp; 
+ GNU GENERAL PUBLIC LICENSE &nbsp; <a href="https://github.com/Africanpride/secons-converter/tree/master" target="_blank">
+<i class="fa fa-github" aria-hidden="true"></i>&nbsp; Code Repository </a> </div>
 
-  gtag('config', 'UA-108372931-1');
-</script>
  
 </body>
 </html>
